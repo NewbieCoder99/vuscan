@@ -1,0 +1,9 @@
+root:root
+root:toor
+root:password
+root:password12345
+root12345:root12345
+admin:admin
+admin12345:admin
+admin12345:admin12345
+root:xyind12345
